@@ -1,4 +1,3 @@
-// src/components/Announcement.js
 import React, { Component } from "react";
 
 class Announcement extends Component {

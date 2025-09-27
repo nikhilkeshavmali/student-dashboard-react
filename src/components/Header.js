@@ -1,4 +1,3 @@
-// src/components/Header.js
 import React from "react";
 
 function Header() {
@@ -11,6 +10,7 @@ function Header() {
         </p>
       </div>
     </div>
+    
   );
 }
 
